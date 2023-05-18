@@ -1,0 +1,7 @@
+{
+  "name": "Practice_BuildLoginFeature_Simple",
+  "version": "1.0.0",
+  "dependencies": {
+    "qs": "^6.11.2"
+  }
+}
